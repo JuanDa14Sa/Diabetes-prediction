@@ -27,5 +27,5 @@ if prediction_prob[0][1] > 0.5:
 else: 
     st.write('You are healthy! :smile:')
 
-
-
+st.write('My LinkedIn: https://www.linkedin.com/in/juanda14sa/ :sunglasses:')
+st.write('My GitHub: https://github.com/JuanDa14Sa :blush:')
